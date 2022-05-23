@@ -1,0 +1,26 @@
+h1{
+    background-color: black;
+    color: aliceblue;
+    font-family: monospace;
+    height: 60px;
+    font-size: 50px;
+}
+
+
+h2{
+    background-color: #56317c;
+    text-align: center;
+    color: aliceblue;
+    font-style:normal;
+    height: 40px;
+}
+
+
+h3{
+
+    background-color: rgb(93, 157, 220);
+    text-align: right;
+    text-decoration-line: underline;
+    color: rgba(0, 0, 0, 0.712);
+    height: 30px;
+}
